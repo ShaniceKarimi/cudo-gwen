@@ -35,5 +35,6 @@ I’m passionate about building **scalable, efficient, and user-friendly applica
 
 
 ---
+![Shanice's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ✨ *“Clean code is not just for machines, it’s a developer’s signature.”*
